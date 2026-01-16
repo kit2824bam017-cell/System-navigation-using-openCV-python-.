@@ -1,2 +1,17 @@
-# System-navigation-using-openCV-python-.
-This project focuses on developing a real-time hand gesture recognition system using Python and OpenCV to enable touchless interaction with a computer. The system captures live video through a webcam, detects and tracks hand movements, and recognizes predefined gestures to perform corresponding computer actions.
+# Hand Gesture Mouse Control
+
+A computer vision-based system that allows you to control your mouse cursor using hand gestures detected through your webcam.
+
+## Features
+
+- **Mouse Movement**: Control cursor with index finger
+- **Left Click**: Index + Middle finger gesture
+- **Right Click**: Index + Middle + Ring finger gesture  
+- **Drag & Drop**: Thumb + Index finger pinch gesture
+- **Scrolling**: Use 4+ extended fingers in upper/lower areas
+- **State Management**: Closed fist resets all actions
+
+## Installation
+
+1. Clone or download this project
+2. Install dependencies:
