@@ -15,3 +15,10 @@ A computer vision-based system that allows you to control your mouse cursor usin
 
 1. Clone or download this project
 2. Install dependencies:
+python >= 3.9, <= 3.10
+opencv-python
+mediapipe
+numpy
+pyautogui
+protobuf==3.20.3
+
